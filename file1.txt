@@ -1,1 +1,3 @@
-First line of comment
+First line of comment.
+
+Second line.
